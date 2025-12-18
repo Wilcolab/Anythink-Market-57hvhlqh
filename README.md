@@ -6,6 +6,16 @@
 
 The project contains a simple node.js application that exposes REST APIs to perform arithmetic on integers, and provides a test suite with mocha and chai.
 
+## GitHub Copilot Integration
+
+GitHub Copilot was used during development to assist with:
+- Writing boilerplate code
+- Suggesting functions and logic
+- Improving code readability and efficiency
+
+Copilot helped speed up development and provided useful suggestions during implementation.
+
+
 ## Instructions 
 
 In order to run the app use `npm start`
